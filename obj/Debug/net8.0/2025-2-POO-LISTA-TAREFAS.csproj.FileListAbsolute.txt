@@ -1,0 +1,5 @@
+/workspaces/2025-2-POO-LISTA-TAREFAS/obj/Debug/net8.0/2025-2-POO-LISTA-TAREFAS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-2-POO-LISTA-TAREFAS/obj/Debug/net8.0/2025-2-POO-LISTA-TAREFAS.AssemblyInfoInputs.cache
+/workspaces/2025-2-POO-LISTA-TAREFAS/obj/Debug/net8.0/2025-2-POO-LISTA-TAREFAS.AssemblyInfo.cs
+/workspaces/2025-2-POO-LISTA-TAREFAS/obj/Debug/net8.0/2025-2-POO-LISTA-TAREFAS.csproj.CoreCompileInputs.cache
+/workspaces/2025-2-POO-LISTA-TAREFAS/obj/Debug/net8.0/2025-2-POO-LISTA-TAREFAS.sourcelink.json
